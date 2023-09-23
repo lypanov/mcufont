@@ -1,0 +1,1 @@
+Added bedstead-10.bdf (public domain from http://bjh21.me.uk/bedstead/.) together with some really tiny modifications to make characters I wanted to use available in the utf8 set as that's all I have available as don't wish right now to add widechar support universally
